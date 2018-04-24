@@ -2,4 +2,4 @@ Burger is a restaurant app that lets users input the names of burgers they'd lik
 
 This app is a full-stack application that uses CSS, JavaScript, Node, Express, MySQL, ORM, and Handlebars. 
 
-View the app here: https://neeha-burger2.herokuapp.com/
+View the app here: <a href="https://neeha-burger2.herokuapp.com/">Burger</a>
